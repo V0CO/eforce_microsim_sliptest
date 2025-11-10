@@ -7,11 +7,11 @@ The main use of this miniature simulator is to give space for the newbies in For
 ## Installation
 
 1. Clone this repository onto a machine with Linux or macOS, do it over [SSH](https://phoenixnap.com/kb/git-clone-ssh) for easier access (that is what you will be using once you start developing the full system)
-1.5. Cloning the repository for Windows system is possible, however you must first install WSL (Windows Subsystem for Linux) and requires a little longer setup. 
-3. Make sure to have python >= 3.10 installed (ideally 3.11 - 3.12). On macOS, use [homebrew](https://brew.sh/) exclusively for all packages. On Ubuntu, install it using [deadsnakes](https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa). Other Linux distros usually have good package managers with latest python versions (Fedora, Manjaro, Arch).
-4. Activate you venv if applicable or make sure your python is aliased under `python`
-5. Run `python -m pip install -r requirements.txt` to install the required packages
-6. run `python run.py` to start the simulation with evaluation
+1.5. Cloning the repository for Windows system is possible, however you must first install WSL (Windows Subsystem for Linux) and requires a little longer setup.
+2. Make sure to have python >= 3.10 installed (ideally 3.11 - 3.12). On macOS, use [homebrew](https://brew.sh/) exclusively for all packages. On Ubuntu, install it using [deadsnakes](https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa). Other Linux distros usually have good package managers with latest python versions (Fedora, Manjaro, Arch).
+3. Activate you venv if applicable or make sure your python is aliased under `python`
+4. Run `python -m pip install -r requirements.txt` to install the required packages
+5. run `python run.py` to start the simulation with evaluation
 
 ![Sim screenshot](./img/sim.png)
 
@@ -50,10 +50,10 @@ Have fun!
 
 ## Helpful resources
 
-1. https://thomasfermi.github.io/Algorithms-for-Automated-Driving/Control/ControlOverview.html
-2. https://www.ni.com/en/shop/labview/pid-theory-explained.html
-3. https://blogs.mathworks.com/student-lounge/2022/10/03/path-planning-for-formula-student-driverless-cars-using-delaunay-triangulation/
-4. https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_
-5. https://numpy.org/
-6. https://docs.python.org/3.11/
-7. https://dspace.cvut.cz/handle/10467/101617
+1. <https://thomasfermi.github.io/Algorithms-for-Automated-Driving/Control/ControlOverview.html>
+2. <https://www.ni.com/en/shop/labview/pid-theory-explained.html>
+3. <https://blogs.mathworks.com/student-lounge/2022/10/03/path-planning-for-formula-student-driverless-cars-using-delaunay-triangulation/>
+4. <https://www.youtube.com/watch?v=U6vr3iNrwRA&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN>_
+5. <https://numpy.org/>
+6. <https://docs.python.org/3.11/>
+7. <https://dspace.cvut.cz/handle/10467/101617>
